@@ -1,2 +1,2 @@
-git clone https://github.com/UseInterstellar/Interstellar
-cd Interstellar
+git clone https://github.com/UseInterstellar/Interstellar-Astro
+cd Interstellar pnpm install && pnpm start
